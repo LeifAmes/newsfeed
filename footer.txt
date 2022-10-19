@@ -1,0 +1,25 @@
+<tr><td>
+  <table class="subpage">
+    <tr>
+      <td class="main-ll"></td>
+      <td class="main-bottom"></td>
+      <td class="main-lr"></td>
+    </tr><tr>
+      <td class="footer-ul"></td>
+      <td class="footer-top"></td>
+      <td class="footer-ur"></td>
+    </tr><tr>
+      <td class="footer-left"></td>
+      <td class="footer-color" style="text-align: center; font: 0.25cm Verdana, sans-serif; color: #00125f;">
+&copy; Copyright 2022, Leif Ames
+      </td>
+      <td class="footer-right"></td>
+  </tr><tr>
+      <td class="footer-ll"></td>
+      <td class="footer-bottom"></td>
+      <td class="footer-lr"></td>
+  </tr>
+  </table>
+</td></tr>
+</table>
+</body></html>

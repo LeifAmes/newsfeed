@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="UTF-8">
+<title>LeifAmes.com - The Official Website for Leif Ames - News</title>
+<meta name="description" content="The official Leif Ames personal website - News">
+<meta name="keywords" content="Leif, Ames, Leif Ames, LeifAmes, official, personal, blog, projects, photos, news, reading list, literature project">
+<meta name="robots" content="index,follow">
+<link rel="icon" type="image/svg+xml" href="https://leifames.com/favicon.svg">
+<meta name="viewport" content="width=device-width">
+<link rel="stylesheet" href="https://leifames.com/leifames.css">
+</head>
+<body>
+<table class="pagelayout"><tr><td>
+  <table class="subpage">
+    <tr>
+      <td class="title-left"></td>
+      <td class="title-slice" style="width: 50%;"></td>
+      <td class="title-text"></td>
+      <td class="title-slice" style="width: 50%;"></td>
+      <td class="title-right"></td>
+    </tr><tr>
+      <td class="menu-ul"></td>
+      <td colspan=3 class="menu-top"></td>
+      <td class="menu-ur"></td>
+    </tr><tr>
+      <td class="menu-left"></td>
+      <td colspan=3 class="menu-color" style="text-align: center; font: 0.4cm Verdana, sans-serif; color: #00125f; word-spacing: 10px; font-weight: bold;">
+        [ <a href="https://leifames.com/index.html">Home</a> ::
+        <a href="https://leifames.com/projects.html">Projects</a> ::
+        <a href="https://leifames.com/pictures.html">Pictures</a> ::
+        <a href="https://lit.leifames.com/" target="_blank">Literature</a> ::
+        <a href="https://news.leifames.com/">News</a> ::
+        <a href="https://leifames.com/contact.html">Contact</a> ]
+      </td>
+      <td class="menu-right"></td>
+    </tr><tr>
+      <td class="menu-ll"></td>
+      <td colspan=3 class="menu-bottom"></td>
+      <td class="menu-lr"></td>
+    </tr><tr>
+      <td class="main-ul"></td>
+      <td colspan=3 class="main-top"></td>
+      <td class="main-ur"></td>
+    </tr><tr>
+      <td class="main-left"></td>
+      <td colspan=3 class="main-color" style="height: 30px;"></td>
+      <td class="main-right"></td>
+    </tr>
+  </table>
+</td></tr>
+<tr>
+
